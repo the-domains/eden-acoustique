@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Introduction
-datePublished: '2016-03-01T22:55:40.632Z'
-dateModified: '2016-03-01T22:55:29.400Z'
+datePublished: '2016-03-01T22:58:12.083Z'
+dateModified: '2016-03-01T22:57:29.569Z'
 title: TÔMEI AIR LOUDSPEAKERS
 author: []
 sourcePath: _posts/2016-03-01-eden-acoustique-open-air-loudspeakers.md
@@ -25,6 +25,8 @@ _type: WebPage
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fa490f5-12b5-476c-9548-9ec0a1a9986b.jpg)
 
 TÔMEI - OPEN AIR DESIGN LOUDSPEAKERS
+
+A STREAM OF FRESH AIR!
 
 The future of high-end audio lies in integration, ease of use and lifestyle components. At Eden Acoustique, we decided to build a loudspeaker system that would become the center of your musical and cinematic adventures.
 
