@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Introduction
-datePublished: '2016-03-01T22:48:05.733Z'
-dateModified: '2016-03-01T22:47:59.958Z'
+datePublished: '2016-03-01T22:51:08.315Z'
+dateModified: '2016-03-01T22:50:34.617Z'
 title: TÔMEI AIR LOUDSPEAKERS
 author: []
 sourcePath: _posts/2016-03-01-eden-acoustique-open-air-loudspeakers.md
@@ -22,8 +22,9 @@ url: open-air-loudspeakers/index.html
 _type: WebPage
 
 ---
-TÔMEI - OPEN AIR DESIGN LOUDSPEAKERS
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fa490f5-12b5-476c-9548-9ec0a1a9986b.jpg)
+
+TÔMEI - OPEN AIR DESIGN LOUDSPEAKERS
 
 Many, many years have gone by since the first domestic loudspeaker appeared. Nowadays, boxes of all sizes have become a necessary evil when integration to a lifestyle decor is needed. At Eden Acoustique such mundane things as a housing for the speakers have been omitted. No more box, not even a baffle in sight! The TÔMEI and the OPEN AIR DESIGN (OAD) were born. Live, holographic, 3D, multi-layered soundstage, outstanding, exciting, ... Everyone has a way to describe them!
 
