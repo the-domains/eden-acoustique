@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Introduction
-datePublished: '2016-03-01T22:58:12.083Z'
-dateModified: '2016-03-01T22:57:29.569Z'
+datePublished: '2016-03-01T22:58:21.403Z'
+dateModified: '2016-03-01T22:58:17.890Z'
 title: TÔMEI AIR LOUDSPEAKERS
 author: []
 sourcePath: _posts/2016-03-01-eden-acoustique-open-air-loudspeakers.md
