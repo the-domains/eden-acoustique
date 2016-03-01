@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: Introduction
-datePublished: '2016-03-01T22:04:23.266Z'
-dateModified: '2016-03-01T22:03:27.297Z'
-title: Open Air Loudspeakers
+datePublished: '2016-03-01T22:10:28.343Z'
+dateModified: '2016-03-01T22:10:23.391Z'
+title: TÔMEI AIR LOUDSPEAKERS
 author: []
 sourcePath: _posts/2016-03-01-eden-acoustique-open-air-loudspeakers.md
 published: true
@@ -19,12 +19,12 @@ publisher:
   url: null
   favicon: null
 url: open-air-loudspeakers/index.html
-_type: Article
+_type: WebPage
 
 ---
 TÔMEI LOUDSPEAKERS
 
-EDEN ACOUSTICS LOUDSPEAKERS - A STREAM OF FRESH AIR!
+A STREAM OF FRESH AIR!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6c56deb-ee15-40f9-a011-00cffad2b601.jpg)
 
 The future of high-end audio lies in integration, ease of use and lifestyle components. At Eden Acoustique, we decided to build a loudspeaker system that would become the center of your musical and cinematic aventures.
