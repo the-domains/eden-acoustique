@@ -1,6 +1,6 @@
 name: Eden Acoustique
 favicon: null
-layout_spectrum: 0.4995
+layout_spectrum: 0.39781
 typography_spectrum: 0.39153
 title: Eden Acoustique
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f9f8f6'
-    - '#3d3028'
-    - '#baa798'
-    - '#050505'
-    - '#766456'
+    - '#2d2d30'
+    - '#000000'
+    - '#d3d1d6'
+    - '#ffffff'
+    - '#716b6a'
   brandStrength: 0.7835693089291453
   lightness: 0.9839298294391483
   saturation: 0.33812190731987357
