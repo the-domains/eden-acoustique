@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Introduction
-datePublished: '2016-03-01T22:20:23.518Z'
-dateModified: '2016-03-01T22:19:18.325Z'
+datePublished: '2016-03-01T22:36:13.503Z'
+dateModified: '2016-03-01T22:35:10.508Z'
 title: TÔMEI AIR LOUDSPEAKERS
 author: []
 sourcePath: _posts/2016-03-01-eden-acoustique-open-air-loudspeakers.md
@@ -22,7 +22,7 @@ url: open-air-loudspeakers/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09d272e8-6f6f-4738-ada1-3bec93d46534.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9fc218a4e9fe75fe7769f92d7d5d37b500b792f2.jpg)
 
 TÔMEI - OPEN AIR DESIGN LOUDSPEAKERS
 
