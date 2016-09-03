@@ -1,20 +1,4 @@
-name: Eden Acoustique
-favicon: null
-layout_spectrum: 0.50294
 typography_spectrum: 0.49123
-title: Eden Acoustique
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#070707'
@@ -26,4 +10,21 @@ color:
   lightness: 0.9839298294391483
   saturation: 0.33812190731987357
   rhythmicContrast: 0.732091658981517
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50294
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Eden Acoustique
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Eden Acoustique
+description: The Sound of Art
 purpose: []
